@@ -59,6 +59,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\i\Desktop\Revature\revature_India_26th_July_13Week\Week2(Java_Advanced)\java_examples"/>
 			<item value="C:\Users\i\Desktop\Revature\revature_India_26th_July_13Week\Week1(Git,Java)\java_demos"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
